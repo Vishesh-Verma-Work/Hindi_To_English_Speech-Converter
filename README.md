@@ -3,27 +3,17 @@ Convert spoken Hindi to written English with this Python script. It utilizes Goo
 
 
 Tags:
+<ul>
+    <li>Python</li>
+    <li>Text</li>
+    <li>Speech</li>
+    <li>Language</li>
+    <li>Hindi</li>
+    <li>English</li>
+    <li>Google Translate</li>
+    <li>Open Source</li>
+    <li>Multilingual</li>
+    <li>Audio Conversion</li>
+</ul>
 
-<li>
-    <ul>Python</ul>
-    <ul>Text</ul>
-    <ul>Speech</ul>
-    <ul>Language</ul>
-    <ul>Hindi</ul>
-    <ul>English</ul>
-    <ul>Google Translate</ul>
-    <ul>Open Source</ul>
-    <ul>Multilingual</ul>
-    <ul>Audio Conversion</ul>
-</li>
 
-Python <br>
-Text-to-Speech  <br>
-Speech Recognition <br>
-Language Translation <br>
-Hindi <br>
-English <br>
-Google Translate <br>
-Open Source <br>
-Multilingual <br>
-Audio Conversion <br>
